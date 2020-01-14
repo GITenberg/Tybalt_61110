@@ -1,16 +1,21 @@
 _repo: Tybalt_61110
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Burns
     gutenberg_agent_id: '48890'
     url: http://www.gutenberg.org/2009/agents/48890
+covers:
+- cover_type: archival
+  image_path: 61110-h/images/cover.jpg
 creator:
   author:
     agent_name: Barr, Stephen
     gutenberg_agent_id: '46361'
     url: http://www.gutenberg.org/2009/agents/46361
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61110#Tybalt
 gutenberg_issued: '2020-01-05'
 gutenberg_type: Text
 identifiers:
